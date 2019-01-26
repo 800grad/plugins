@@ -64,3 +64,6 @@
 [submodule "widget"]
 	path = widget
 	url = https://github.com/sojimaxi/grav-plugin-widget.git
+[submodule "shortcode-ui"]
+	path = shortcode-ui
+	url = https://github.com/800grad/grav-plugin-shortcode-ui.git
