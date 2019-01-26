@@ -52,9 +52,6 @@
 [submodule "shortcode-core"]
 	path = shortcode-core
 	url = https://github.com/getgrav/grav-plugin-shortcode-core.git
-[submodule "shortcode-ui"]
-	path = shortcode-ui
-	url = https://github.com/800grad/grav-plugin-shortcode-ui.git
 [submodule "sitemap"]
 	path = sitemap
 	url = https://github.com/getgrav/grav-plugin-sitemap.git
