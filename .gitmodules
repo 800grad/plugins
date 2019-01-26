@@ -16,6 +16,54 @@
 [submodule "error"]
 	path = error
 	url = https://github.com/getgrav/grav-plugin-error.git
+[submodule "email"]
+	path = email
+	url = https://github.com/getgrav/grav-plugin-email.git
+[submodule "feed"]
+	path = feed
+	url = https://github.com/getgrav/grav-plugin-feed.git
+[submodule "form"]
+	path = form
+	url = https://github.com/getgrav/grav-plugin-form.git
+[submodule "graveyard"]
+    path = graveyard
+    url = https://github.com/Perlkonig/grav-plugin-graveyard.git
+[submodule "imgcaptions"]
+    path = imgcaptions
+    url = https://github.com/OleVik/grav-plugin-imgcaptions.git
+[submodule "login"]
+    path = login
+    url = https://github.com/getgrav/grav-plugin-login.git
+[submodule "login-oauth2"]
+    path = login-oauth2
+    url = https://github.com/trilbymedia/grav-plugin-login-oauth2.git
+[submodule "maintenance"]
+    path = maintenance
+    url = https://github.com/getgrav/grav-plugin-maintenance.git
+[submodule "seo"]
+    path = seo
+    url = https://github.com/paulmassen/grav-plugin-seo.git
 [submodule "markdown-notices"]
 	path = markdown-notices
 	url = https://github.com/getgrav/grav-plugin-markdown-notices.git
+[submodule "shortcode-assets"]
+	path = shortcode-assets
+	url = https://github.com/getgrav/grav-plugin-shortcode-assets.git
+[submodule "shortcode-core"]
+	path = shortcode-core
+	url = https://github.com/getgrav/grav-plugin-shortcode-core.git
+[submodule "shortcode-ui"]
+	path = shortcode-ui
+	url = https://github.com/getgrav/grav-plugin-shortcode-ui.git
+[submodule "sitemap"]
+	path = sitemap
+	url = https://github.com/getgrav/grav-plugin-sitemap.git
+[submodule "tinymce-editor"]
+	path = tinymce-editor
+	url = https://github.com/newbthenewbd/grav-plugin-tinymce-editor.git
+[submodule "twig-extensions"]
+	path = twig-extensions
+	url = https://github.com/Perlkonig/grav-plugin-twig-extensions.git
+[submodule "widget"]
+	path = widget
+	url = https://github.com/sojimaxi/grav-plugin-widget.git
