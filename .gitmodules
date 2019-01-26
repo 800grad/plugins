@@ -1,0 +1,12 @@
+[submodule "admin"]
+	path = admin
+	url = https://github.com/getgrav/grav-plugin-admin
+[submodule "blackhole"]
+	path = blackhole
+	url = https://github.com/BarryMode/grav-plugin-blackhole
+[submodule "devtools"]
+	path = devtools
+	url = https://github.com/getgrav/grav-plugin-devtools.git
+[submodule "editor-buttons"]
+	path = editor-buttons
+	url = https://github.com/getgrav/grav-plugin-editor-buttons.git
